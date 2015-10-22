@@ -1,0 +1,74 @@
+.test {
+
+	width:700px;
+	height:450px;
+	margin-left: 20px;
+
+}
+.test2 {
+	width:460px;
+	height:100px;
+	float:left;
+	padding:10px;
+}
+.bearbook{
+	height:100px;
+	width:580px;
+	border-color:black;
+	border-style: solid;
+	float:left;
+	margin-bottom: 20px
+}
+.bear{
+	width:65px;
+	height:59px;
+	float:left;
+	margin-top:10px;
+	margin-left:10px;
+}
+.bear_image{
+	width: 65px;
+	height: 59px;
+}
+.comment_image{
+	width:20px;
+	height: 24px;
+}
+.like{
+	width:81px;
+	height:18px;
+	padding:25px;
+	float:left;
+}
+.like2{
+	width:22px;
+	height:24px;
+	float:left;
+}
+.like_image{
+	width:22px;
+	height: 24px;
+}
+.like3{
+	padding-top: 10px;
+	float:left;
+}
+.comment{
+	width:142px;
+	height:18px;
+	padding:25px;
+	float:left;
+}
+.comment2{
+	width:20px;
+	height:24px;
+	float:left;
+}
+.comment3{
+	padding-top:10px;
+	float:left;
+
+}
+.rawr{
+	font-weight: bold;
+}
